@@ -35,6 +35,7 @@ This repository contains the complete analytical report in a single document. Th
 | air quality index.pdf | Complete PDF report of the AQI analysis |
 
 ## Author
-*Wriddhi Saha* *This project was developed as part of a college academic submission.*
+*Wriddhi Saha* 
+*This project was developed as part of a college academic submission.*
 
 For a full view of the code, charts, and insights, please refer to the PDF document included in this repository.
